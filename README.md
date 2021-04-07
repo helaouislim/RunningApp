@@ -1,8 +1,8 @@
 # RunnerApp
 =================================
-## An Running application using Google maps for tracking
+## Running application using Google maps for tracking
 
-Learn
+Screen
 ------------
 
 
